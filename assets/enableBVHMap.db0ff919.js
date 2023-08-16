@@ -1,1 +1,0 @@
-import{c as n,M as f}from"./computeBVH.b89f793d.js";import{s as a,p,a as c,M,w as h}from"./index.ac2cf653.js";async function V(s,r){if(s.done)return;a.attach(this.outerObject3d);const[o,i]=n(this);for(const e of o)p(e);if(s.then(()=>{for(const e of o)c(e)}),r)for(const e of i){const t=new f(new M(e,h),20);a.add(t),s.then(()=>a.remove(t))}}export{V as default};

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Initial D - Fujiwara Tofu Shop - AE86
+* source:	https://sketchfab.com/3d-models/initial-d-fujiwara-tofu-shop-ae86-31ab8ab1a8cf454fb59d82ae86ca5bf3
+* author:	GabrielPM (https://sketchfab.com/GabrielPM)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Initial D - Fujiwara Tofu Shop - AE86" (https://sketchfab.com/3d-models/initial-d-fujiwara-tofu-shop-ae86-31ab8ab1a8cf454fb59d82ae86ca5bf3) by GabrielPM (https://sketchfab.com/GabrielPM) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
